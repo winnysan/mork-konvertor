@@ -1,0 +1,12 @@
+{
+  "name": "mork-parser",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "convert": "node script.js"
+  },
+  "author": "winnysan",
+  "dependencies": {
+    "mork-parser": "^0.9.0"
+  }
+}
